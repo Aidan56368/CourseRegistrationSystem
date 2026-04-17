@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/t08EUyl9c=",
+  "dgSpecHash": "R6+N0gs3FJw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cheat\\source\\repos\\CourseRegistrationSystem.Tests\\CourseRegistrationSystem.Tests.csproj",
+  "projectFilePath": "C:\\Users\\cheat\\source\\repos\\CourseRegistrationProjects\\CourseRegistrationSystem.Tests\\CourseRegistrationSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheat\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\cheat\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
